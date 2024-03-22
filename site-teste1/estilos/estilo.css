@@ -1,0 +1,74 @@
+p{
+color: greenyellow;
+
+
+}
+h1{
+color: greenyellow;
+background-color: black;
+border-bottom: 7px solid greenyellow;
+text-shadow: 3px 3px 1px rgb(141, 194, 141);
+}
+
+body{
+    background-color: black;
+}
+
+li{
+color: white;
+width: 450;
+border: 1px solid green;
+}
+
+link{
+    color: white;
+}
+
+#meu-id{
+
+    background-color: darkgreen;
+}
+.minha-class:hover{
+
+    background-color: darkgreen;
+    color: aquamarine;
+}
+
+html{
+font-size: 50px;
+font-family: "Metal Mania", system-ui;
+text-align: center;
+}
+
+h1{
+font-size: 35px;
+text-align: center;
+
+
+}
+
+p, li{
+
+font-size: 16px;
+line-height: 1;
+letter-spacing: 1px;
+text-align: left;
+padding: 3px;
+margin: 3px;
+
+}
+
+body{
+
+width: 600px;
+margin: 0 auto;
+padding: 0 20px 20px 20px;
+border:  5px solid black;
+
+}
+
+img{
+display: block;
+margin: 0 auto;
+
+}
